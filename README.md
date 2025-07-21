@@ -118,10 +118,10 @@ npx expo start
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/985a194f-62ed-4234-ac2f-8ba3855ca648" height=400>
-<img src="https://github.com/user-attachments/assets/3cf702c4-d5d3-42a6-8fa3-661f4bee31d6" height=400>
-<img src="https://github.com/user-attachments/assets/587f85c0-6833-437f-9c38-f15f753fa96b" height=400>
-
+<img src="https://github.com/user-attachments/assets/7362de1d-2d75-4c53-b47d-cca083865c9d" height=400>
+<img src="https://github.com/user-attachments/assets/a88ccefa-aad7-4e51-9a9c-9edc4b36ffb1" height=400>
+<img src="https://github.com/user-attachments/assets/a4862cc5-9c61-4258-90b5-0e7917c46273" height=400>
+<img src="https://github.com/user-attachments/assets/101a6930-5fa1-4af3-aae7-ad156bf7de0f" height=400>
 
 
 ---
