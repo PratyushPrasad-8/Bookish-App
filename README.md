@@ -2,7 +2,7 @@
 <img src="https://cdn.edu.buncee.com/assets/abbde3e5bc174eb59c55d4b2f278ec48/animation-library-magicbookp-022120.gif?timestamp=1582320629" height=400>
 
 
-Welcome to **Bookworm** – a full-stack book review app where users can explore books, post reviews, and read what others have shared to make informed reading choices. Built completely from scratch with no external service integration, this app delivers a seamless and responsive experience powered by MERN stack and React Native.
+Welcome to **Bookish** – a full-stack book review app where users can explore books, post reviews, and read what others have shared to make informed reading choices. Built completely from scratch with no external service integration, this app delivers a seamless and responsive experience powered by MERN stack and React Native.
 
 ---
 
